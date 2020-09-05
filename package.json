@@ -31,6 +31,6 @@
     "express": "^4.17.1",
     "uuidv4": "^6.0.7"
   },
-  "repository": "https://github.com/DexterFLN/desafio-gosatck-fundamentos-node.git",
+  "repository": "https://github.com/DexterFLN/desafio-gostack-fundamentos-node.git",
   "author": "DexterFLN <dragon_dexter-x@yahoo.com.br>"
 }
